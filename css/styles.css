@@ -245,6 +245,10 @@ li
     padding: 40PX 0;
     box-shadow: 6px 6px 20px black;
 }
+.informacion-lateral-izquierda img{
+    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
+    border: 3px solid #890ec2;
+}
 
 .titulo-lateral
 {
